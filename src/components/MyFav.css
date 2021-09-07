@@ -1,0 +1,18 @@
+.cardShow{
+
+display: flex;
+justify-content: space-evenly;
+flex-wrap: nowrap;
+width: 80%;
+margin: 0%;
+
+
+}
+
+p{
+    font-size: 200%;
+align-items: center;
+background-color: yellow;
+color: black;
+align-content: center;
+}
